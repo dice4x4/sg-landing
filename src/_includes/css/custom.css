@@ -6,5 +6,6 @@
 
 html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
-  background: url('/img/bg.svg');
+  background-color: rgb(35, 35, 35);
+  font-family: 'Kumbh Sans', sans-serif;
 }
